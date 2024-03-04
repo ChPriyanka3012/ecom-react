@@ -18,6 +18,42 @@ code {
   padding: 7px;
   margin:2px;
   text-align: center;
-  color:blueviolet
+  
 
+}
+.main-cont{
+  background: linear-gradient(to left,lightblue,rgb(103, 199, 237),lightgray);
+    margin:1px;
+    display: flex;
+    flex-wrap:wrap;
+    
+    height:100%;
+}
+.block1,.block2,.block3{
+  background-color: white;
+  border: 1px solid black;
+  margin:50px;
+  width:250px;
+  padding:25px;
+  text-align: center;
+ box-shadow: 10px 10px 20px 10px gray;
+  border-radius: 20px;
+}
+.block4,.block5,.block6{
+  background-color: white;
+  border: 1px solid black;
+  margin:50px;
+  width:250px;
+  padding:25px;
+  text-align: center;
+ box-shadow: 10px 10px 20px 10px gray;
+  border-radius: 20px;
+}
+.btn{
+  background-color: lightgray;
+  border-radius: 5px;
+  height:30px
+}
+.btn:hover{
+  background-color: lightskyblue;
 }
