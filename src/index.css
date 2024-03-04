@@ -17,5 +17,7 @@ code {
   background: linear-gradient(to left,lightgreen,skyblue,green);
   padding: 7px;
   margin:2px;
+  text-align: center;
+  color:blueviolet
 
 }
