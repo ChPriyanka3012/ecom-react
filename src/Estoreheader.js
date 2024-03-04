@@ -1,4 +1,4 @@
 import React from "react";
 export default function Estoreheader(){
-    return (<div><h1>E-store</h1></div>)
+    return (<div className="header"><h1>THE PAGE TURNERS</h1></div>)
 }
