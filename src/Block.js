@@ -10,37 +10,37 @@ function Block(){
         <div className="block1">
             <img src={img1} alt="Kerala" height="120px" width="200px"></img>
             <h3>Written By- Ashok kumar</h3>
-            <p>2days-10k</p>
+            <p>Price: 1800rs</p>
             <button className="btn">Add to Cart</button>
         </div>
         <div className="block2">
         <img src={img2}alt="Pondicherry" height="120px" width="200px"></img>
             <h3>Written By- Anthony Deorr</h3>
-            <p>3days-8k</p>
+            <p>Price: 1500rs</p>
             <button className="btn">Add to Cart</button>
         </div>
         <div className="block3">
         <img src={img3} alt="Coorg" height="120px" width="200px"></img>
-            <h3>Written By- Stacky Willingam</h3>
-            <p>3days-7k</p>
+            <h3>Written By- Willingam</h3>
+            <p>Price: 1900rs</p>
             <button className="btn">Add to Cart</button>
         </div>
         <div className="block4">
         <img src={img4} alt="Coorg" height="120px" width="200px"></img>
             <h3>Written By- Audren Blake</h3>
-            <p>3days-7k</p>
+            <p>Price: 1200rs</p>
             <button className="btn">Add to Cart</button>
         </div>
         <div className="block5">
         <img src={img5} alt="Coorg" height="120px" width="200px"></img>
             <h3>Written By- Gareth Brown</h3>
-            <p>3days-7k</p>
+            <p>Price: 800rs</p>
             <button className="btn">Add to Cart</button>
         </div>
         <div className="block6">
         <img src={img6} alt="Coorg" height="120px" width="200px"></img>
             <h3>Written By- Akshat Gupta</h3>
-            <p>3days-7k</p>
+            <p>Price: 2100rs</p>
             <button className="btn">Add to Cart</button>
         </div>
     </div>)
